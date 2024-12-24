@@ -23,5 +23,6 @@ public class strings {
         int y2 = 20;
         String z2 = x2 + y2;
         System.err.println("The sum of x and y is : " + z2);
+
     }
 }
